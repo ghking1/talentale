@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="28px" viewBox="0 0 35 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>形状结合</title>
+    <defs>
+        <linearGradient x1="-6.9388939e-15%" y1="23.7029006%" x2="100%" y2="82%" id="linearGradient-1">
+            <stop stop-color="#605FFF" offset="0%"></stop>
+            <stop stop-color="#FF46CB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板备份-14" transform="translate(-157.000000, -743.000000)" fill="url(#linearGradient-1)">
+            <g id="编组-28" transform="translate(140.000000, 253.000000)">
+                <g id="T备份-2" transform="translate(17.000000, 490.000000)">
+                    <path d="M20.024,8.473 L20.0248534,28 L17.0590138,28 C15.0926505,28 13.498598,26.4059475 13.498598,24.4395842 L13.498598,24.4395842 L13.498,8.473 L20.024,8.473 Z M35,0 L30.512363,6.14820768 L20.0248534,6.14820768 L20.024,6.15 L13.498,6.15 L13.498598,6.14820768 L0,6.14820768 L4.48763701,0 L35,0 Z" id="形状结合"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

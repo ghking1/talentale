@@ -1,0 +1,34 @@
+{
+    "0x13e37Fd316A245eCCcfd650e95bE3e6A0036D9Ed": {
+        "cards": [
+            [
+                "0x13e37Fd316A245eCCcfd650e95bE3e6A0036D9Ed",
+                992
+            ],
+            [
+                "0x56a5F0709d8EebD2Dfe3C2263b3E790932F65CCa",
+                0
+            ]
+        ]
+    },
+    "0x56a5F0709d8EebD2Dfe3C2263b3E790932F65CCa": {
+        "cards": [
+            [
+                "0x56a5F0709d8EebD2Dfe3C2263b3E790932F65CCa",
+                1000
+            ],
+            [
+                "0x13e37Fd316A245eCCcfd650e95bE3e6A0036D9Ed",
+                8
+            ]
+        ]
+    },
+    "0x9da1f1957c2b68cd2268e0897d9973ed9c028e80": {
+        "cards": [
+            [
+                "0x9da1f1957c2b68cd2268e0897d9973ed9c028e80",
+                1000
+            ]
+        ]
+    }
+}

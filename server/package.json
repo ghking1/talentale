@@ -1,0 +1,31 @@
+{
+  "name": "waterdrop-server",
+  "version": "1.0.0",
+  "description": "waterdrop-server",
+  "main": "main.js",
+  "dependencies": {
+    "@koa/cors": "^3.3.0",
+    "ejs": "^2.6.1",
+    "koa": "^2.13.4",
+    "koa-body": "^5.0.0",
+    "koa-ejs": "^4.3.0",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.2.1",
+    "koa-onerror": "^4.2.0",
+    "koa-router": "^10.1.1",
+    "koa-session": "^6.2.0",
+    "koa-static": "^5.0.0",
+    "node-schedule": "^2.1.0",
+    "pg": "^8.7.3",
+    "redis": "^4.0.4",
+    "svg-captcha": "^1.4.0",
+    "web3": "^1.7.1",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
