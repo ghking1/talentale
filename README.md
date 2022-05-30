@@ -1,11 +1,28 @@
 # TalenTale
 
-## Demo
 
-<http://talenttech.bj.bcebos.com/>
+Video Demo: <http://talenttech.bj.bcebos.com>
+Live Demo: <http://talenttech.bj.bcebos.com>
 
 
-## Video
+## Introduction
+
+why
+
+what
+
+how (connector talent company)
+
+
+## more about us
+
+Talentale Official: <https://talentale-xyz.squarespace.com>
+
+
+## Technologies used
+1. use flutter as front-end
+2. use nodejs as back-end
+3. use polygon and solidity to develop smart contract
 
 
 ## Deploy
