@@ -2,6 +2,7 @@
 
 
 Video Demo: <http://talenttech.bj.bcebos.com>
+
 Live Demo: <http://talenttech.bj.bcebos.com>
 
 
@@ -14,7 +15,7 @@ what
 how (connector talent company)
 
 
-## more about us
+## More About Us
 
 Talentale Official: <https://talentale-xyz.squarespace.com>
 
