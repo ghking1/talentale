@@ -1,6 +1,6 @@
 # TalenTale
 
-Video Demo: <http://talenttech.bj.bcebos.com>
+Video Demo: <https://youtu.be/4M9YRwVDwzo>
 
 Live Demo: <http://talenttech.bj.bcebos.com>
 
