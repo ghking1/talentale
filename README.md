@@ -4,6 +4,8 @@ Video Demo: <http://talenttech.bj.bcebos.com>
 
 Live Demo: <http://talenttech.bj.bcebos.com>
 
+Talentale Official: <https://talentale-xyz.squarespace.com>
+
 Contract: [0x7315aF2b99F6735af5CDE44a3dC94853c278e507](https://mumbai.polygonscan.com/address/0x7315aF2b99F6735af5CDE44a3dC94853c278e507)
 
 
@@ -31,10 +33,9 @@ The network will run on the polygon network with a native token TLT, which users
 
 For the governance protocol, we will apply a one-token, one-vote system that gives TLT holders proportional control over how the network is governed. Only the top 50 TLT holders can hand in new proposals. These native token uses will provide strong incentives to corporates and talents to activate the network and community.
 
+#### Team
 
-#### More
-
-Talentale Official: <https://talentale-xyz.squarespace.com>
+Team members come from Ivy League colleges and top universities with years of development or product experience. Our team believes that only through real-world impact can Web3.0 revolute the world. Boosted by tokens, we re-allocate resources and fortune, which are monopolized by centralized platforms.
 
 
 ## Technologies used
@@ -51,6 +52,7 @@ Talentale Official: <https://talentale-xyz.squarespace.com>
 
 
 ## Screenshot
+![home](https://github.com/ghking1/talentale/raw/master/docs/home.jpg)
 ![connector](https://github.com/ghking1/talentale/raw/master/docs/connector.jpg)
 ![mycards](https://github.com/ghking1/talentale/raw/master/docs/mycards.jpg)
 ![talent](https://github.com/ghking1/talentale/raw/master/docs/talent.jpg)
